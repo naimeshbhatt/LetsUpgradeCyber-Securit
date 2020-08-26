@@ -1,2 +1,2 @@
-# LetsUpgradeCyber-Securit
+# LetsUpgradeCyber-Security
 Assignmnets
